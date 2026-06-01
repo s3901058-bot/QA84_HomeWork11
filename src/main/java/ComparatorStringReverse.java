@@ -3,10 +3,10 @@ import java.util.Comparator;
 public class ComparatorStringReverse implements Comparator<Double> {
 
     @Override
-    public int compare(Double d1, Double d2) {
+    public int compare(Double i1, Double i2) {
 
 
-        return  Double.compare(d2.doubleValue(),d1.doubleValue());
+        return  Double.compare(i2.doubleValue(),i1.doubleValue());
     }
 
 
