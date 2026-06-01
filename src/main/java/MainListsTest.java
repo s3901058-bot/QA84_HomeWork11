@@ -50,3 +50,13 @@ public class MainListsTest {
 
     }
 }
+/*
+ HomeWork #11
+1 in main
+ArrayList<Double> listD
+LinkedList<Integer> listInt
+
+2 Advanced:применить для листо в 1 задаемя
+ComparatorDoubleReverse  Double.compare(d1.d2);
+ComparatorIntegerRevers
+ */
